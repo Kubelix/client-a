@@ -26,7 +26,7 @@ If the cluster is correctly setup, it will send requests to the server-b upon st
 
 ![client_logs](https://github.com/Kubelix/client-a/blob/master/utils/images/client_logs.png)
 
-The logs clearly show that sample cache data was updated on server-b pods.
+The logs clearly show that sample cache data was updated on `server-b` pods.
 
 
 
